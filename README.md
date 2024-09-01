@@ -33,3 +33,22 @@ Then we can finally create the pencil sketch by mixing the grayscale image with 
 
                                                     (Intermediate Level Task)
 
+
+
+## Task 5- Exploratory Data Analysis - Terrorism
+Perform ‘Exploratory Data Analysis’ on dataset ‘Global Terrorism’.
+
+As a security/defense analyst, try to find out the hot zone of terrorism.
+What all security issues and insights you can derive by EDA?
+
+You can choose any of the tool of your choice (Python/R/Tableau/PowerBI/Excel/SAP/SAS)
+
+Dataset: https://bit.ly/2TK5Xn5
+
+
+## Task 6-Prediction using Decision Tree Algorithm
+Create the Decision Tree classifier and visualize it graphically.
+
+The purpose is if we feed any new data to this classifier, it would be able to predict the right class accordingly.
+
+Dataset : https://bit.ly/3kXTdox
