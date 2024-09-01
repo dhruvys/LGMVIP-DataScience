@@ -19,4 +19,10 @@ Stock values is very valuable but extremely hard to predict correctly for any hu
 
 Dataset Link:https://raw.githubusercontent.com/mwitiderrick/stockprice/master/NSE-TATAGLOBAL.csv
 
+# Task 3-Music Recommendation System
+
+Built a Music recommender systems can suggest songs to users based on their listening patterns.
+
+Dataset Link : https://www.kaggle.com/c/kkbox-music-recommendation-challenge/data
+
 
