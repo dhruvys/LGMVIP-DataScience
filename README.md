@@ -1,6 +1,5 @@
 # Data Science Internship -LetsGrowMore
 # Batch Sep-24
-# LGMVIP-DataScience
 
 # This repo consist of my intership task in LetsGrowMore Virtual Internship Program(LGMVIP)
 
